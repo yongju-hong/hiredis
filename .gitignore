@@ -6,3 +6,5 @@
 /*.a
 /*.pc
 *.dSYM
+*.swp
+*.swo
